@@ -3,7 +3,7 @@ Contributors: McGuive7, MIGHTYminnow
 Tags: hotkeys, keyboard, shortcuts, admin, dashboard, jQuery, javascript, wordpress, faster, mouseless, mouse, speed
 Donate link: http://mightyminnow.com
 Requires at least: 3.0
-Tested up to: 5.4
+Tested up to: 5.5
 Stable tag: 0.9.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
